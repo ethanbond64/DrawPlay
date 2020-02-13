@@ -1,3 +1,5 @@
+// Ethan Bond and Lucy Mahorner
+
 import java.awt.Graphics;
 
 import javax.swing.JFrame;
